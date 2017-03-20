@@ -1,0 +1,3 @@
+[submodule "nowplaying"]
+	path = nowplaying
+	url = https://github.com/erikjansson/Now-Playing.git
